@@ -1,0 +1,38 @@
+# Python-related
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+myworld/
+
+# Django settings and local configuration
+*.env
+local_settings.py
+
+# Database files
+db.sqlite3
+*.db
+
+# Static and media files
+staticfiles/
+media/
+
+# Logs
+*.log
+
+# Temporary and cache files
+*.tmp
+*.cache
+*.swp
+.DS_Store
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+Thumbs.db
